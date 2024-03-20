@@ -1,7 +1,5 @@
 <h1>Market + Auction Value CHALLENGE</h1>
 
-<h2>Description</h2> 
-
 # Project Description
 
 This project is part of a challenge where equipment values are calculated using C#.
