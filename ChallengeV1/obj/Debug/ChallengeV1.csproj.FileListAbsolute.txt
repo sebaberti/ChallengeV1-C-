@@ -1,0 +1,22 @@
+C:\Users\MSI\OneDrive\Escritorio\nivel3- practica pagina\ChallengeV1\ChallengeV1\obj\Debug\ChallengeV1.csproj.AssemblyReference.cache
+C:\Users\MSI\OneDrive\Escritorio\nivel3- practica pagina\ChallengeV1\ChallengeV1\obj\Debug\ChallengeV1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\OneDrive\Escritorio\nivel3- practica pagina\ChallengeV1\ChallengeV1\obj\Debug\ChallengeV1.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Escritorio\nivel3- practica pagina\ChallengeV1\ChallengeV1\bin\Debug\ChallengeV1.exe.config
+C:\Users\MSI\OneDrive\Escritorio\nivel3- practica pagina\ChallengeV1\ChallengeV1\bin\Debug\ChallengeV1.exe
+C:\Users\MSI\OneDrive\Escritorio\nivel3- practica pagina\ChallengeV1\ChallengeV1\bin\Debug\ChallengeV1.pdb
+C:\Users\MSI\OneDrive\Escritorio\nivel3- practica pagina\ChallengeV1\ChallengeV1\obj\Debug\ChallengeV1.exe
+C:\Users\MSI\OneDrive\Escritorio\nivel3- practica pagina\ChallengeV1\ChallengeV1\obj\Debug\ChallengeV1.pdb
+C:\Users\MSI\OneDrive\Escritorio\nivel3- practica pagina\ChallengeV1\ChallengeV1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI\OneDrive\Escritorio\nivel3- practica pagina\ChallengeV1\ChallengeV1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI\OneDrive\Escritorio\nivel3- practica pagina\ChallengeV1\ChallengeV1\obj\Debug\ChallengeV1.csproj.CopyComplete
+C:\Users\MSI\OneDrive\Escritorio\Challenge V1\ChallengeV1\ChallengeV1\bin\Debug\ChallengeV1.exe.config
+C:\Users\MSI\OneDrive\Escritorio\Challenge V1\ChallengeV1\ChallengeV1\bin\Debug\ChallengeV1.exe
+C:\Users\MSI\OneDrive\Escritorio\Challenge V1\ChallengeV1\ChallengeV1\bin\Debug\ChallengeV1.pdb
+C:\Users\MSI\OneDrive\Escritorio\Challenge V1\ChallengeV1\ChallengeV1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI\OneDrive\Escritorio\Challenge V1\ChallengeV1\ChallengeV1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI\OneDrive\Escritorio\Challenge V1\ChallengeV1\ChallengeV1\obj\Debug\ChallengeV1.csproj.AssemblyReference.cache
+C:\Users\MSI\OneDrive\Escritorio\Challenge V1\ChallengeV1\ChallengeV1\obj\Debug\ChallengeV1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\OneDrive\Escritorio\Challenge V1\ChallengeV1\ChallengeV1\obj\Debug\ChallengeV1.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Escritorio\Challenge V1\ChallengeV1\ChallengeV1\obj\Debug\ChallengeV1.csproj.CopyComplete
+C:\Users\MSI\OneDrive\Escritorio\Challenge V1\ChallengeV1\ChallengeV1\obj\Debug\ChallengeV1.exe
+C:\Users\MSI\OneDrive\Escritorio\Challenge V1\ChallengeV1\ChallengeV1\obj\Debug\ChallengeV1.pdb
