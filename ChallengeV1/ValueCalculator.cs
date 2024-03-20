@@ -27,7 +27,7 @@ namespace ChallengeV1
             {
                 var equipmentInfo = _equipmentData[equipmentId];
 
-                
+
                 if (equipmentInfo.Schedule.Years.ContainsKey(year.ToString()))
                 {
                     var yearData = equipmentInfo.Schedule.Years[year.ToString()];
@@ -45,7 +45,14 @@ namespace ChallengeV1
                 Console.WriteLine($"No se encontró información para el equipo con ID {equipmentId}.");
             }
 
-            return (marketValue, auctionValue);
+
+            if (marketValue != 0 && auctionValue != 0)
+            {
+                Console.WriteLine($"Valor de Mercado y Subasta para el equipo {equipmentId} en el año¨{year}:");
+                Console.WriteLine($"Valor de Mercado: {marketValue}");
+                Console.WriteLine($"Valor de Subasta: {auctionValue}");
+            }
+                return (marketValue, auctionValue);
         }
 
 
