@@ -1,9 +1,7 @@
 <h1>Market + Auction Value CHALLENGE</h1>
 
 <h2>Description</h2> 
-<p>In this challenge, a simulated data structure representing equipment information is provided, including sales details and market and auction ratios for various years. The goal is to implement a function that calculates the market and auction value of equipment for a given year. </p> 
 
-<h3>Project execution</h3>
 # Project Description
 
 This project is part of a challenge where equipment values are calculated using C#.
